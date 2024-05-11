@@ -1,0 +1,3 @@
+interface IGermanyMap {
+    text: string;
+}
